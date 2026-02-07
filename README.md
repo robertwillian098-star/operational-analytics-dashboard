@@ -57,7 +57,3 @@ Sem essas informações, a tomada de decisão fica reativa.
 
 ---
 
-## 🧩 Próximos Passos
-- Integração com dados reais
-- Incremento de análises preditivas
-- Automatização do pipeline de dados
